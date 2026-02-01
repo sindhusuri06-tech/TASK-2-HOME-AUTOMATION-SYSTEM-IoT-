@@ -1,0 +1,6 @@
+Components Used:
+- Arduino UNO
+- LED (Light)
+- DC Motor (Fan - simulation)
+- Resistors
+- Mobile App (Blynk / Bluetooth - concept)
